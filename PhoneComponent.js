@@ -1,6 +1,13 @@
 import PhoneStack from "./components/PhoneStack"
 import React, { Fragment } from "react"
 
+/* 
+Author: Jordan Winslow
+Add Me On Social Media: @JordanDWinslow
+License: Attribution-NonCommercial 4.0 International
+Licence Link: https://creativecommons.org/licenses/by-nc/4.0/legalcode
+*/
+
 function App() {
   return (
     <Fragment>
